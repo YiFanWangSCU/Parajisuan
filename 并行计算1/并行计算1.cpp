@@ -16,6 +16,7 @@ int main()
 	ThreadObject.join();
 	std::cout<< "Exiting from Main Thread" << std::endl;
 	return 0;
+	//
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
